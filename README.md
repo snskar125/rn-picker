@@ -6,7 +6,6 @@ Picker Component for React Native
 
 ```javascript
 import Picker from "@snskar125/rn-picker";
-import { Button } from "react-native";
 import { useState } from "react";
 export default function App() {
   const [value, setValue] = useState(null);
