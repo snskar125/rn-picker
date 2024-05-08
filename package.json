@@ -1,0 +1,27 @@
+{
+  "name": "@snskar125/rn-picker",
+  "version": "1.0.0",
+  "description": "Picker Component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snskar125/rn-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "select",
+    "dropdown",
+    "picker"
+  ],
+  "author": "snskar125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snskar125/rn-picker/issues"
+  },
+  "homepage": "https://github.com/snskar125/rn-picker#readme"
+}
