@@ -66,7 +66,7 @@ class PickerItem extends PureComponent {
     );
   }
 }
-export default class SearchPicker extends PureComponent {
+export default class Picker extends PureComponent {
   constructor(props) {
     super(props);
     this.state = {
@@ -241,7 +241,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
 });
-SearchPicker.defaultProps = {
+Picker.defaultProps = {
   searchable: false,
   cancelable: false,
   value: null,
